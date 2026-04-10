@@ -2,6 +2,6 @@
   "name": "apisunat-n8n",
   "version": "1.0.0",
   "dependencies": {
-    "@respond-io/n8n-nodes-respond-io": "^1.0.0"
+    "@respond-io/n8n-nodes-respond-io": "^1.6.0"
   }
 }
